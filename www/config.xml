@@ -5,10 +5,10 @@
 -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
- id        = "kz.lifefitnessclub"
+ id        = "kz.porucheniya"
       version   = "0.0.3">
 
-    <name>SmartPay</name>
+    <name>Поручения</name>
 
     <description>
 «SMART Павлодар» - это многофункциональная мобильная система
@@ -115,6 +115,7 @@ MaksimMorozov
         <splash src="www/res/screen/ios/Default-Portrait~ipad.png"      platform="ios" width="768"  height="1024" />
         <splash src="www/res/screen/ios/Default@2x~iphone.png"          platform="ios" width="640"  height="960" />
         <splash src="www/res/screen/ios/Default~iphone.png"             platform="ios" width="320"  height="480" />
+        <splash src=”www/res/screen/ios/Default@2x~universal~anyany.png”  platform="ios" width="2732"  height="2732" />
     </platform>
 
     <platform name="wp8">
